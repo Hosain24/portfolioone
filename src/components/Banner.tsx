@@ -8,7 +8,7 @@ const Banner = () => {
     <Container className='px-4' >
     <div className='flex items-center gap-5 flex-col sm:flex-row '>
         <div className='w-full sm:w-1/2 flex-col justify-center gap-3 '>         
-            <h2 className='text-2xl font-semibold'>I'm Hosain Md. Rafi</h2>
+            <h2 className='text-2xl font-semibold'>I&apos;m Hosain Md. Rafi</h2>
             <p className='text-lg font-semibold'>Mern Stack Devloper</p>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sapiente similique placeat odio inventore! Culpa rem qui ad porro dignissimos corporis cumque voluptas distinctio aperiam, repellat consequuntur sit Lorem ipsum dolor sit,
                  amet consectetur adipisicing elit. <br/>Sapiente similique placeat odio inventore! Culpa rem qui ad porro dignissimos corporis cumque voluptas distinctio aperiam, repellat consequuntur sit
