@@ -1,4 +1,4 @@
-import { Facebook,Instagram,Twitter,Linkedin,AppWindow, FileJson, AlertCircle, PenSquare, ShoppingBag,Brush  } from "lucide-react"
+import { Facebook,Instagram,Youtube,Linkedin,AppWindow, FileJson, AlertCircle, PenSquare, ShoppingBag,Brush  } from "lucide-react"
 import XYZImg from '@/assest/exprience/xyz.jpg'
 import BrainStation from '@/assest/exprience/brain station.png'
 import ollyoImg from '@/assest/exprience/ollyo.png'
@@ -22,9 +22,9 @@ export const services = [
 ]
 export const contacts = [
     {title:"Facebook",icon:Facebook, href:"https://www.facebook.com/hosainofficial.50"},
-    {title:"Instagram",icon:Instagram, href:"https://www.facebook.com/hosainofficial.50"},
-    {title:"Twitter",icon:Twitter, href:"https://www.youtube.com/@HosainBD24"},
-    {title:"Linkdin",icon:Linkedin, href:"https://www.youtube.com/@HosainBD24"},
+    {title:"Instagram",icon:Instagram, href:"https://instagram.com/hosainmdrafi?igshid=MWthdGZ0MGhnZmx4YQ=="},
+    {title:"Youtube",icon:Youtube, href:"https://www.youtube.com/@HosainBD24"},
+    {title:"Linkdin",icon:Linkedin, href:"https://www.linkedin.com/in/hosain-md-rafi-12363029a"},
    
 ]
 export const servicesDetails =[
